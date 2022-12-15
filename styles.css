@@ -9,3 +9,22 @@
     height: 300px;
     width: 100%;
 }
+.footer3{
+    background-color: grey;
+}
+.body2{
+    background-color: black;
+}
+.scooby{
+    height: 200px;
+    width: 200px;
+}
+.gg4{
+    font-size: larger;
+    color: rgb(128, 112, 122);
+    font-weight: bolder;
+    background-color: bisque;
+}
+.ggdown{
+    background-color: black;
+}
